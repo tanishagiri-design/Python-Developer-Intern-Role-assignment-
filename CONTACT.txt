@@ -1,0 +1,6 @@
+Full Name: [Tanisha Atmaram Giri]
+Email: [tanishagiri014@gmail.com]
+Phone: [8329587475]
+GitHub: https://github.com/tanishagiri-design
+
+Most challenging part: Implementing the dual-token authentication flow for the Monitoring Officer role — ensuring the scoped token was properly validated separately from standard JWT tokens and that all other endpoints correctly rejected it.
